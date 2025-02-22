@@ -1,4 +1,5 @@
 
+
 [![Release](https://github.com/opensearch-project/opensearch-py/actions/workflows/unified-release.yml/badge.svg)](https://github.com/opensearch-project/opensearch-py/actions/workflows/unified-release.yml)
 [![CI](https://github.com/opensearch-project/opensearch-py/actions/workflows/ci.yml/badge.svg)](https://github.com/opensearch-project/opensearch-py/actions/workflows/ci.yml)
 [![Integration](https://github.com/opensearch-project/opensearch-py/actions/workflows/integration.yml/badge.svg)](https://github.com/opensearch-project/opensearch-py/actions/workflows/integration.yml)
@@ -17,6 +18,11 @@ OpenSearch Python Client
 - [Code of Conduct](https://github.com/opensearch-project/opensearch-py#code-of-conduct)
 - [License](https://github.com/opensearch-project/opensearch-py#license)
 - [Copyright](https://github.com/opensearch-project/opensearch-py#copyright)
+
+sdk is here
+
+https://github.com/opensearch-project/opensearch-sdk-py
+
 
 # Welcome!
 
